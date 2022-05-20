@@ -1,0 +1,14 @@
+.DS_Store
+.git/
+.ipynb_checkpoints/
+.idea/
+images/
+images_v2/
+images_opencv/
+images_small/
+images_research
+liver_seg_v2_small.ipynb
+liver_segmentation.ipynb
+opencv_seg.ipynb
+implementation/.idea
+implementation/src/__pycache__
